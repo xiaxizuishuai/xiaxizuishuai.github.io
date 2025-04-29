@@ -1,7 +1,7 @@
 ---
 layout:       post
-title:        "《JavaScript 二十年》推荐语"
-author:       "Hux"
+title:        "学习mcp记录"
+author:       "xiaxizuishuai"
 header-style: text
 catalog:      true
 tags:
@@ -9,8 +9,9 @@ tags:
     - JavaScript
 ---
 
-> 雪碧（doodlewind）邀请我给[《JavaScript 二十年》](https://zhuanlan.zhihu.com/p/373065151) 写的推荐序。
+> 这是我通过bilibili上up主的视频[Al +高德MCP：10分钟自动制作一份精美的旅行攻略手卡！](https://www.bilibili.com/video/BV1qwZqYJEUG/?spm_id_from=333.1387.favlist.content.click&vd_source=7eb54ed30eb8ab9310ad684ce530cbbf) 学习ai+高德mcp为自己旅行高效设定方案。
 
-JavaScript 常常被戏称为一门偶然成功的玩具语言。而实际上，它出身名门，更是成长在聚光灯之下。纵观历史，有资格被标准化的编程语言甚少，它因此成为多方角力的战场，却也有幸同时得到业界与学界先驱的亲传。时至今日，我们甚至难言是它背负了太多妥协，还是这些妥协才成就了它呢。以史为鉴，或许你会有自己的答案。
+>>那么就有人问了，**什么是mcp？**简单来说mcp是模型上下文协议，大模型可以利用这些工具与外界交流。
+**想探索更多玩法的盆友也可以看看这个视频**[MCP幼儿园级教程，让你的AI自己干活！【小白教程】](https://www.bilibili.com/video/BV1HFd6YhErb/?spm_id_from=333.1391.0.0&vd_source=7eb54ed30eb8ab9310ad684ce530cbbf)
 
-— 黄玄，Facebook 软件工程师（编程语言、JS 引擎、前端基础设施）、中文前端社区活跃成员。
+
